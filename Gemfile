@@ -11,3 +11,6 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Windows has no system timezone database, needed for local previews
+gem 'tzinfo-data', platforms: [:windows, :jruby]
