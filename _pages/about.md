@@ -11,8 +11,7 @@ I am a Ph.D. candidate in Economics at the University of Michigan, and **I am on
 
 Before graduate school, I earned an M.P.A. in Economics and Public Policy from Princeton University and worked on financial stability research at the U.S. Department of the Treasury's Office of Financial Research and the Board of Governors of the Federal Reserve System.
 
-Job Market Paper
-======
+## Job Market Paper
 
 **Built to Sell: Strategic Entry in Pharmaceutical Markets**<br>
 with Zoey Chopra and Garth W. Strohbehn<br>
@@ -25,8 +24,7 @@ Most new cancer drugs are invented by small biotechnology firms and brought to m
 
 </details>
 
-References
-======
+## References
 
 <div class="references" markdown="1">
 

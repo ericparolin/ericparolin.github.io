@@ -4,30 +4,26 @@ title: "Research"
 author_profile: true
 ---
 
-Job Market Paper
-======
+## Job Market Paper
 
 * **Built to Sell: Strategic Entry in Pharmaceutical Markets**<br>
   with Zoey Chopra and Garth W. Strohbehn<br>
   [[Paper]](/files/Parolin_JMP.pdf)
 {: .paper-list}
 
-Publications
-======
+## Publications
 
 * **Career Expectations and Outcomes: Evidence (on Gender Gaps) from the Economics Job Market**<br>
   with Brooke Helppie-McFall and Basit Zafar<br>
   *Journal of Public Economics*, 248, 105437 (2025). [[Paper]](/files/Parolin_CareerExpectations.pdf) [[DOI]](https://doi.org/10.1016/j.jpubeco.2025.105437)
 {: .paper-list}
 
-Work in Progress
-======
+## Work in Progress
 
 * **Fast-Tracked and Left Behind: The Unequal Innovation Effects of FDA Reform**
 {: .paper-list}
 
-Publications in Medical Journals
-======
+## Publications in Medical Journals
 
 * **Oncology Pharmaceutical Mergers and Acquisitions Activity in the Precision Medicine Era**<br>
   with L. B. Wang, Zoey Chopra, and Garth W. Strohbehn<br>
@@ -38,8 +34,7 @@ Publications in Medical Journals
   Submitted to *BMJ Oncology*
 {: .paper-list}
 
-Publications Prior to Ph.D.
-======
+## Publications Prior to Ph.D.
 
 * **Half-Full or Half-Empty? Financial Institutions, CDS Use, and Corporate Credit Risk**<br>
   with C. Caglio and R. M. Darst<br>
@@ -55,8 +50,7 @@ Publications Prior to Ph.D.
   *FEDS Notes*, Board of Governors of the Federal Reserve System (2016)
 {: .paper-list}
 
-Other Research and Policy Work
-======
+## Other Research and Policy Work
 
 * **Medicaid Estate Recovery: Evidence on Cost Effectiveness and Administration**<br>
   Second Place, National Academy of Elder Law Attorneys Foundation Medicaid Estate Recovery Research Competition
