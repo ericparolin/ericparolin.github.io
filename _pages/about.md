@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at the University of Michigan, and **I am on the 2026–2027 academic job market**. My fields are industrial organization, health economics, and labor economics. My research studies how public policy, antitrust regulation, and market structure shape innovation, with a focus on pharmaceutical markets.
+I am a Ph.D. candidate in Economics at the University of Michigan, and **I am on the 2026–2027 job market**. My fields are industrial organization, health economics, and labor economics. My research studies how public policy, antitrust regulation, and market structure shape innovation, with a focus on pharmaceutical markets.
 
-Before graduate school, I earned an M.P.A. in Economics and Public Policy from Princeton University and worked on financial stability research at the U.S. Department of the Treasury's Office of Financial Research and the Board of Governors of the Federal Reserve System.
+Before graduate school, I earned an M.P.A. in Economics and Public Policy from Princeton University and worked on financial stability research at the U.S. Department of the Treasury's Office of Financial Research, and the Board of Governors of the Federal Reserve System.
 
 ## Job Market Paper
 
