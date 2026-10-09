@@ -9,7 +9,7 @@ Job Market Paper
 
 * **Built to Sell: Strategic Entry in Pharmaceutical Markets**<br>
   with Zoey Chopra and Garth W. Strohbehn<br>
-  [[Abstract]](/)
+  [[Paper]](/files/Parolin_JMP.pdf)
 {: .paper-list}
 
 Publications

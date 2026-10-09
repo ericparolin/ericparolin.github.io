@@ -15,15 +15,13 @@ Job Market Paper
 ======
 
 **Built to Sell: Strategic Entry in Pharmaceutical Markets**<br>
-with Zoey Chopra and Garth W. Strohbehn
-<!-- Add a link to the paper once it is in the files/ folder, e.g.:
+with Zoey Chopra and Garth W. Strohbehn<br>
 [[Paper]](/files/Parolin_JMP.pdf)
--->
 
 <details markdown="1">
 <summary>Abstract</summary>
 
-Oncology drug development is slow, expensive, and usually ends in failure. Most of the innovation is done by small biotechnology firms, while a much smaller set of large firms controls nearly all commercialized cancer drugs. For a small firm deciding whether to start a program, the prospect of being bought by one of the large firms acts as an entry subsidy. Antitrust authorities, concerned about killer acquisitions, increasingly treat the purchase of a development-stage compound as the removal of a future competitor. We ask how the prospect of acquisition shapes whether small firms enter oncology development and which cancer they enter. We build a quarterly panel of oncology development, ownership and deal terms covering 566 acquisitions of control rights between 2006 and 2019. Buyers are a small and identifiable set, with large firms comprising 93% of total acquisition value. We show that acquisition demand is predictable, rising 48% per $1 billion of approved revenue in a cancer approaching loss of exclusivity. We then estimate a two-stage model informed by this evidence. A compound is sold at a first-price auction among the engaged subset of large firms, and we recover the distribution of acquirer valuations by inverting the equilibrium bid function on 246 priced licensing deals. Entrants choose a cancer by conditional logit over 1,283 compounds, weighing the expected payoff by how well a compound's class fits each market. Entry responds to that payoff at 0.026 per $1 million. Barring acquisitions by firms holding a late-stage or approved product in the same cancer removes the high-value bidders, resulting in an expected price decrease of 22 percent, from $34 million to $24 million per compound. Aggregate entry decreases by 0.8 percent with 1.2 percent of entrants changing the cancer they develop for. Notable changes include non-small cell lung cancer reducing by 7.4 percent and non-Hodgkin lymphoma reducing by 4.0 percent, with entry rising where few incumbents hold late-stage assets. This result indicates that the cost of the policy falls on the composition of innovation rather than its level.
+Most new cancer drugs are invented by small biotechnology firms and brought to market by large ones, with control changing hands during clinical development. For a potential entrant, the prospect of acquisition acts as an entry subsidy. Antitrust authorities read the same transactions as the removal of future competitors, and the remedy under debate bars incumbents from acquiring development-stage compounds in markets where they hold overlapping products. Using a quarterly panel that links oncology drug development to ownership of control rights, we show that acquirers are a small, identifiable set of large firms whose demand rises predictably as their own products approach loss of exclusivity. We then model the sale of a development-stage compound as a first-price auction among the incumbents that engage, and estimate how the acquisition payoff moves whether small firms enter development and which cancer they target. The ban cuts the expected acquisition payoff in half, redirects about 3 percent of small-firm entry away from the most contested cancers, and lowers the number of entering compounds by about 2 percent. The cost of the policy falls on the composition of innovation rather than its level.
 
 </details>
 
@@ -40,7 +38,7 @@ Ross School of Business, University of Michigan<br>
 Department of Economics, University of Michigan<br>
 [zachb@umich.edu](mailto:zachb@umich.edu)
 
-**Charles Murray**<br>
+**Charles Murry**<br>
 Department of Economics, University of Michigan<br>
 [ctmurry@umich.edu](mailto:ctmurry@umich.edu)
 
