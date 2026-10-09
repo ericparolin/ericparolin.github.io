@@ -16,8 +16,8 @@ Publications
 ======
 
 * **Career Expectations and Outcomes: Evidence (on Gender Gaps) from the Economics Job Market**<br>
-  with B. Helppie-McFall and Basit Zafar<br>
-  *Journal of Public Economics*, 248, 105437 (2025)
+  with Brooke Helppie-McFall and Basit Zafar<br>
+  *Journal of Public Economics*, 248, 105437 (2025). [[Paper]](/files/Parolin_CareerExpectations.pdf) [[DOI]](https://doi.org/10.1016/j.jpubeco.2025.105437)
 {: .paper-list}
 
 Work in Progress
