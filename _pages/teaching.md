@@ -12,7 +12,7 @@ author_profile: true
 
 ## Student Evaluations
 
-I have taught ten sections during my Ph.D., and thoroughly enjoyed the experience. My median rating for explaining material clearly was 4.9 out of 5.0, and met or exceeded both the school and university-wide medians in all ten sections I taught.
+I have taught ten sections during my Ph.D., and thoroughly enjoyed the experience. My median rating for explaining material clearly was 4.9 out of 5.0, and met or exceeded both the school and university-wide medians in all ten sections I taught. Full teaching evaluations are available upon request.
 
 > Eric Parolin is by far the best instructor I have ever had. He was both incredibly helpful inside and outside of class, and he was even willing to meet with students to go over practice interview questions, resume help, and discuss economics topics. … Eric's discussion sections were always the highlight of my week, because he was able to present material in a way that was engaging, exciting, and required critical thinking.
 >
@@ -29,5 +29,3 @@ I have taught ten sections during my Ph.D., and thoroughly enjoyed the experienc
 > Eric was super communicative through email and very empathetic and understanding throughout the entire semester. I am beyond grateful for my experience with Eric.
 >
 > \- Market and Mechanism Design, Winter 2023
-
-Full teaching evaluations are available upon request.
