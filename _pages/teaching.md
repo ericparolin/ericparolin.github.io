@@ -12,22 +12,22 @@ author_profile: true
 
 ## Student Evaluations
 
-Across ten sections taught between 2021 and 2025, my median rating on the University's "explained material clearly" item was 4.9 out of 5.0, against a school median of 4.7. I was at or above the school median in every section.
+I have taught ten sections during my Ph.D., and thoroughly enjoyed the experience. My median ratings were 4.9 out of 5.0 for explaining material clearly, for being well prepared for class, and for treating students with respect. On explaining material clearly, I met or exceeded both the school and university-wide medians in all ten sections I taught.
+
+> Eric Parolin is by far the best instructor I have ever had. He was both incredibly helpful inside and outside of class, and he was even willing to meet with students to go over practice interview questions, resume help, and discuss economics topics. … Eric's discussion sections were always the highlight of my week, because he was able to present material in a way that was engaging, exciting, and required critical thinking.
+>
+> \- Introduction to Macroeconomics, Winter 2022
 
 > He not only explained the material in a way that could easily be understood, but he elaborated on why it mattered in the real world. Eric always encouraged us to answer the questions, instead of giving us the answers.
 >
-> *Introduction to Macroeconomics, Winter 2022*
+> \- Introduction to Macroeconomics, Winter 2022
 
-> Eric not only did a great job with explaining the necessary concepts clearly, but was willing to expand upon them and answer any questions. The historical examples that were brought up were also very helpful with understanding the material.
+> Eric was probably my favorite GSI I had. He has a knack for instruction and the patience of a saint.
 >
-> *Introduction to Macroeconomics, Fall 2025*
+> \- Introduction to Macroeconomics, Fall 2025
 
-> He does such a great job explaining concepts and breaking down complicated math. … Outside of macroecon, Eric helped me with my internship search and interview prep as well as talking about what grad school in econ looks like.
+> Eric was super communicative through email and very empathetic and understanding throughout the entire semester. I am beyond grateful for my experience with Eric.
 >
-> *Introduction to Macroeconomics, Winter 2022*
-
-> Eric is a great GSI who goes above and beyond to assist his students.
->
-> *Behavioral and Experimental Economics, Fall 2022*
+> \- Market and Mechanism Design, Winter 2023
 
 Full teaching evaluations are available upon request.
