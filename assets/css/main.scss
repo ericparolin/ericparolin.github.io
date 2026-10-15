@@ -56,3 +56,37 @@ details summary {
 .paper-list li {
   margin-bottom: 1em;
 }
+
+/* Photo gallery on /personal/.
+   Each row is a flex container whose items grow in proportion to their aspect
+   ratio, so every photo in a row ends up the same height and the row edges stay
+   flush, with no cropping. "wide" is 3:2 landscape, "tall" is 2:3 portrait. */
+.photo-grid {
+  margin: 1.5em 0;
+}
+
+.photo-row {
+  display: flex;
+  gap: 0.6em;
+  margin-bottom: 0.6em;
+
+  img {
+    display: block;
+    min-width: 0;
+    height: auto;
+    margin: 0;
+  }
+
+  .wide { flex: 1.509 1 0; }
+  .tall { flex: 0.663 1 0; }
+
+  /* Stack on narrow screens, where side-by-side would be too small to read. */
+  @media (max-width: 600px) {
+    display: block;
+
+    img {
+      width: 100%;
+      margin-bottom: 0.6em;
+    }
+  }
+}

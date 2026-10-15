@@ -16,3 +16,6 @@ main:
 
   - title: "CV"
     url: /files/Parolin_CV.pdf
+
+  - title: "Personal"
+    url: /personal/
