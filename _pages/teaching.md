@@ -14,7 +14,7 @@ author_profile: true
 
 I have taught ten sections during my Ph.D., and thoroughly enjoyed the experience. My median rating for explaining material clearly was 4.9 out of 5.0, and met or exceeded both the school and university-wide medians in all ten sections I taught. Full teaching evaluations are available upon request.
 
-> Eric Parolin is by far the best instructor I have ever had. He was both incredibly helpful inside and outside of class, and he was even willing to meet with students to go over practice interview questions, resume help, and discuss economics topics. Eric is incredibly gifted at explaining complex material easily, and he made an otherwise confusing class clear. Eric's discussion sections were always the highlight of my week, because he was able to present material in a way that was engaging, exciting, and required critical thinking. Eric was never arrogant despite him also being brilliant, which was a welcome change in comparison to other smart economists. Eric truly was an incredible GSI this semester, and I am grateful to have been in his discussion section.
+> Eric Parolin is by far the best instructor I have ever had. He was both incredibly helpful inside and outside of class, and he was even willing to meet with students to go over practice interview questions, resume help, and discuss economics topics. Eric is incredibly gifted at explaining complex material easily, and he made an otherwise confusing class clear. Eric's discussion sections were always the highlight of my week, because he was able to present material in a way that was engaging, exciting, and required critical thinking.
 >
 > \- Introduction to Macroeconomics, Winter 2022
 
