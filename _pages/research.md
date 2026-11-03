@@ -30,7 +30,7 @@ author_profile: true
   *Drug Discovery Today*, 104578 (2025)
 
 * **Regulatory Approval Timing and Development Trajectories of Anticancer Agents Available through a Federal Drug Development Program**<br>
-  with M. Owais, Zoey Chopra, Garth W. Strohbehn, and Mark Ratain<br>
+  with M. Owais, Zoey Chopra, Garth W. Strohbehn, and Mark J. Ratain<br>
   Submitted to *BMJ Oncology*
 {: .paper-list}
 
